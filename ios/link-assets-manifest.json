@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Taviraj-Bold.ttf",
+      "sha1": "3ab6e16578d59118235eba30335e530b20be02f1"
+    },
+    {
+      "path": "src/assets/fonts/Taviraj-Light.ttf",
+      "sha1": "82e19bca2e35f7d8849ccc888ab95fbcb3dce0e5"
+    },
+    {
+      "path": "src/assets/fonts/Taviraj-Medium.ttf",
+      "sha1": "ed631e643a787783baba6fa0b4deff00e1790410"
+    },
+    {
+      "path": "src/assets/fonts/Taviraj-Regular.ttf",
+      "sha1": "e213e60de3e3ee4a50ed9a4e133d47c2c575d948"
+    }
+  ]
+}
